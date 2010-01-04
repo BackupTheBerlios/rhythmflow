@@ -1,0 +1,18 @@
++=============================================================================+
++                                                                             +
++ Rhythmflow - NEWS (04/01/2010)                                              +
++                                                                             +
++=============================================================================+
+
+Rhythmflow 0.1.0 (4/01/2010)
+===============================================================================
+
+ * First 'official' release, expect bugs aplenty.
+ * Contains:
+	o Hopefully enough functionality to build things.
+	o Basic gstreamer 0.10 video playback support.
+	o Fairly stable API, though in no way totally stable.
+	  Expect CHANGES in future versions.
+	o Some simple effect.
+	o Non complete but hopefully useful API documentation.
+ * If you want to help out see the TODO file.
